@@ -22,7 +22,7 @@
         <th>用户名:</th>
         <th>性别:</th>
         <th>邮箱:</th>
-        <th><a href="One.jsp">新增:</a></th>
+        <th><a href="One.jsp">新增-></a></th>
     </tr>
     <c:forEach items="${list}" var="user">
     <tr>
